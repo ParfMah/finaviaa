@@ -75,7 +75,9 @@
     justify-content: center;
   }
 
-  
+  .hero-floating-text {
+    padding: 10px;
+   }
 
   /* --- Services grille --- */
   .services-grid {
