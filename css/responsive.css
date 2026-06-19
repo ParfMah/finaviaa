@@ -76,7 +76,7 @@
   }
 
   .hero-floating-text {
-    margin : 20px;
+    display : none;
    }
 
   /* --- Services grille --- */
