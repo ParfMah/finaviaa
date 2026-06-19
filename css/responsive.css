@@ -57,6 +57,10 @@
     display: none;
   }
 
+  .hero-floating-badge {
+    margin : 10px;
+  }
+
   /* --- Hero --- */
   .hero-inner {
     grid-template-columns: 1fr;
@@ -74,10 +78,6 @@
   .hero-trust {
     justify-content: center;
   }
-
-  .hero-floating-text {
-    display : none;
-   }
 
   /* --- Services grille --- */
   .services-grid {
