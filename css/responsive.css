@@ -75,9 +75,7 @@
     justify-content: center;
   }
 
-  .hero-visual {
-    display: block; /* Cache la carte visuelle sur tablette */
-  }
+  
 
   /* --- Services grille --- */
   .services-grid {
