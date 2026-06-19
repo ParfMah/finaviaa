@@ -25,6 +25,10 @@
     --max-width: 1200px;
   }
 
+  .hero-floating-badge {
+    margin : 30% 30% -10% 10%;
+  }
+
   /* Footer : moins de colonnes si espace restreint */
   .footer-grid {
     grid-template-columns: 1.5fr repeat(3, 1fr);
@@ -55,10 +59,6 @@
   /* Cache le bouton CTA desktop */
   .header-actions .btn {
     display: none;
-  }
-
-  .hero-floating-badge {
-    margin : 30% 30% -10% 10%;
   }
 
   /* --- Hero --- */
